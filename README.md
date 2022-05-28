@@ -1,2 +1,2 @@
-# Image-Reader
+# Image Reader
 Image Reader
